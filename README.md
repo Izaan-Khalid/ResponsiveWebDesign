@@ -10,7 +10,7 @@
 [Cat Photo Appe](/CatPhotoApp/) :
 ![](/Pictures/CatPhotoApp.png)
 
-[City Skyling](/CitySkyline/) :
+[City Skyline](/CitySkyline/) :
 ![](/Pictures/CitySkyline-night.png)
 ![](/Pictures/CitySkyline-day.png)
 
