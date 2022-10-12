@@ -14,12 +14,14 @@
 ![](/Pictures/CitySkyline-night.png)
 ![](/Pictures/CitySkyline-day.png)
 
-
 [Colored Markers](/ColoredMarkers/) :
 ![](/Pictures/ColoredMarkers.png)
 
 [CSS Flexbox Gallery](/CSSGallery/) :
 ![](/Pictures/CSSFallery.png)
+
+[CSS Grid Magazine](/Magazine/) :
+![](/Pictures/Magazine.png)
 
 [Nutrition Facts](/NutritionFacts/) :
 ![](/Pictures/NutritionFacts.png)
