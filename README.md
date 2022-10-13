@@ -20,6 +20,9 @@
 [CSS Flexbox Gallery](/CSSGallery/) :
 ![](/Pictures/CSSFallery.png)
 
+[Ferris Wheel Animation](/FerrisWheelAnimation/) :
+![](/Pictures/FerrisWheelAnimation.png)
+
 [CSS Grid Magazine](/Magazine/) :
 ![](/Pictures/Magazine.png)
 
