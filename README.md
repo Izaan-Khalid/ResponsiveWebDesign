@@ -41,3 +41,5 @@
 [Rothko Painting](/RothkoPainting/) :
 ![](/Pictures/RothkoPainting.png)
 
+[CSS Animation Waving Penguin](/WavingPenguin/) :
+![](/Pictures/WavingPenguin.png)
